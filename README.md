@@ -1,7 +1,5 @@
 # Python Unittest Sample Codes
 This repo contains unittest sample codes for learning.
 
-### Unittest mock
-1. https://www.toptal.com/python/an-introduction-to-mocking-in-python
-2. https://docs.python.org/3/library/unittest.mock.html
-3.
+### Useful Resources
+- https://docs.python.org/3/library/unittest.mock.html
