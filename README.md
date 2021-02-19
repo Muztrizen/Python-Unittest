@@ -1,4 +1,5 @@
-# Unittest
+# Python Unittest Sample Codes
+This repo contains unittest sample codes for learning.
 
 ### Unittest mock
 1. https://www.toptal.com/python/an-introduction-to-mocking-in-python
