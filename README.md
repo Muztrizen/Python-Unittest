@@ -3,7 +3,8 @@ This repo contains unittest sample codes
 
 -assertEqual
 -assertRaises
--Mock, patch
+-Mock
+-Patch
 
-### Resources
+## Resources
 - https://docs.python.org/3/library/unittest.mock.html
