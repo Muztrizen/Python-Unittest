@@ -1,5 +1,9 @@
-# Python Unittest Sample Codes
-This repo contains unittest sample codes for learning.
+## Python Unittest
+This repo contains unittest sample codes 
 
-### Useful Resources
+-assertEqual
+-assertRaises
+-Mock, patch
+
+### Resources
 - https://docs.python.org/3/library/unittest.mock.html
